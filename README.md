@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zhishang Luo, or Jack Luo.
-- 👀 I’m interested in Neuroscience and Machine Learning. 
+- 👀 On my home page you can see all the projects I am doing right now.  
 - 🌱 I’m currently learning Data Science!
 - 📫 How to reach me 
 email: zluo@ucsd.edu
