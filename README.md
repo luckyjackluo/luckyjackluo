@@ -5,5 +5,5 @@
 email: zluo@ucsd.edu
 phone: (702) 934-6984
 
-Some of websites I built:
+Some websites I built:
 https://ucsdhelper.com/
