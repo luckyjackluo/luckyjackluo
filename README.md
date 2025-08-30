@@ -6,7 +6,7 @@
 
 ##  About Me
 
-I am a graph learning and combinatorial optimization researcher pursuing a PhD under Prof. Yusu Wang, University of California San Diego (2023–2027) :contentReference[oaicite:1]{index=1}.
+I am a graph learning and combinatorial optimization researcher pursuing a PhD under Prof. Yusu Wang, University of California San Diego.
 
 ---
 
